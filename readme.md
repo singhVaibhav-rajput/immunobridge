@@ -26,7 +26,7 @@ Offline-first vaccination record system for migrant children with QR-based ident
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/immunobridge.git
+git clone https://github.com/singhVaibhav-rajput/immunobridge.git
 cd immunobridge
 ```
 
